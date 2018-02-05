@@ -1,0 +1,11 @@
+{
+  "name": "typings-react-key-handler",
+  "version": "1.0.1",
+  "description": "Typings for react-key-handler",
+  "main": "index.js",
+  "author": "Nguyen Pham Cao <natsukagami@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.0.36"
+  }
+}
